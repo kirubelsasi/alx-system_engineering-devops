@@ -1,2 +1,2 @@
-id 
-username
+#!/bin/bash
+id username
